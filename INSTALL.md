@@ -7,6 +7,8 @@ one-stop installation script:
 
 ```
 curl -sk https://raw.githubusercontent.com/facebook/fblualib/master/install_all.sh | bash
+
+curl -sk https://github.com/SeokjuLee/fblualib/install_fb.sh | bash
 ```
 
 This will install [folly](https://github.com/facebook/folly),
