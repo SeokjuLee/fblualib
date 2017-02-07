@@ -56,7 +56,6 @@ sudo apt-get install -y \
     autoconf \
     autoconf-archive \
     libtool \
-    libboost-all-dev \
     libevent-dev \
     libdouble-conversion-dev \
     libgoogle-glog-dev \
